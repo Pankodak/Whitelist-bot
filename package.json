@@ -1,0 +1,17 @@
+{
+  "name": "wlstatusbot",
+  "version": "1.0.0",
+  "description": "Whitelist Status",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pankodak",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "hex2dec": "^1.1.2",
+    "mysql": "^2.17.1",
+    "pm2": "^3.5.1"
+  }
+}

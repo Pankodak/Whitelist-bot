@@ -1,0 +1,39 @@
+{
+  "token": "",
+  "guildId": "",
+  "webhooks": {
+    "logs": {
+      "id": "",
+      "token": ""
+    },
+    "accepted": {
+      "id": "",
+      "token": ""
+    },
+    "rejected": {
+      "id": "",
+      "token": ""
+    }
+  },
+  "rules": {
+    "whitelist": "",
+    "conversation": ""
+  },
+  "mysql": {
+    "applications": {
+      "host": "",
+      "user": "",
+      "password": "",
+      "database": ""
+    },
+    "server": {
+      "host": "",
+      "user": "",
+      "password": "",
+      "database": ""
+    }
+  },
+  "cmds": {
+    "prefix": "!"
+  }
+}
